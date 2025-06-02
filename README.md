@@ -1,2 +1,1 @@
-# mtg_postgis
-asdasd
+# mtg_postgres
